@@ -1,0 +1,161 @@
+agent-already_logged_in: si è già connessi nella coda.
+agent-enter_pin: inserisci il tuo numero di pin agente di call center.
+agent-invalid_choice: in grado di eseguire l'azione.
+agent-logged_in: si è ora eseguito l'accesso a coda.
+agent-logged_out: ora si è loggati dalla coda.
+agent-not_call_center_agent: non si è configurato come un agente di call center. contattare l'amministratore di sistema per assistenza.
+agent-pause: pausa dall'attività.
+agent-resume: riprendere l'attività.
+
+camper-deny: la richiesta viene negata.
+camper-queue: la richiesta è stata accettata.
+
+cf-now_forwarded_to: chiamate sono inoltrate al
+cf-disabled: l'inoltro di chiamata è ora disattivato.
+cf-not_available: inoltro di chiamata non è disponibile su questa linea.
+cf-enter_number: immettere il numero di trasmettere, seguito dal tasto cancelletto.
+cf-enabled_menu: per disattivare l'inoltro di chiamata premere quella chiave, per modificare il numero premere i due chiave.
+cf-disabled_menu: per consentire l'inoltro di chiamata premere quella chiave, per modificare il numero premere i due chiave.
+cf-move-too_many_channels: l' utente assegnato al dispositivo è su più chiamate. questa funzione non supporta più chiamate.
+cf-move-no_channel: nessuna chiamata trovato per l' utente assegnato a questo dispositivo.
+cf-move-no_owner: chiamata non ha un proprietario.
+cf-unauthorized_call: non sei autorizzato a chiamare questo tipo di numero.
+
+conf-welcome: benvenuto alla conferenza.
+conf-enter_conf_number: inserisci il numero della conferenza, quindi premere cancelletto.
+conf-enter_conf_pin: inserisci il PIN, quindi premere cancelletto.
+conf-bad_pin: numero pin valido.
+conf-bad_conf: numero di conferenza non valido.
+conf-to_many_attempts: Mi dispiace ci sono stati molti tentativi di accesso alla conferenza..
+conf-alone: siete attualmente l'unica persona in questa conferenza.
+conf-max_participants: il numero massimo di partecipanti è già nella conferenza. per favore riprova più tardi.
+conf-single: c'è solo un altro partecipante a questa conferenza.
+conf-there_are: ci sono
+conf-other_participants: altri partecipanti a questa conferenza.
+conf-muted: microfono muto, comporre stella uno a riattivare.
+conf-unmuted: Microfono riattivati, comporre una stella per disattivare.
+conf-deaf: altoparlante disattivato, manopola per riattivare quattro stelle.
+conf-undeaf: speaker riattivati, comporre stella quattro mute.
+conf-review: premere quella chiave per accettare la registrazione, o premere un altro tasto per eseguire nuovamente la registrazione.
+conf-your_announcment: si sarà annunciato come
+conf-announce_your_name: il tono si prega annunciare il vostro nome, quindi premere un tasto qualsiasi o smettere di parlare per terminare la registrazione.
+
+dir-confirm_menu: premere quella chiave. per ricominciare premere la chiave di tre.
+dir-enter_person: inserisci le prime lettere delle persone
+dir-enter_person_firstname: inserisci le prime lettere del nome persone.
+dir-enter_person_lastname: inserisci le prime lettere del cognome persone.
+dir-first_name: nome
+dir-found: quella chiave risultato trovato per la connessione a
+dir-invalid_key: chiave non valida premuto
+dir-last_name: cognome
+dir-letters_of_person_name: lettere del nome di persone.
+dir-no_more_results: Nessun altro risultato.
+dir-no_results_found: nessun risultato trovato.
+dir-result_menu: premere quella chiave. per il prossimo risultato premere i due chiave. per ricominciare premere la chiave di tre.
+dir-result_number: chiamare
+dir-specify_minimum: è necessario specificare un minimo di i due chiave cifre.
+
+disa-enter_pin: inserisci il tuo pin accesso al sistema, quindi premere cancelletto.
+disa-invalid_pin: numero pin valido.
+disa-retries_exceeded: Mi dispiace ci sono stati molti tentativi con perni errati, addio.
+disa-invalid_extension: in grado di trovare l'estensione, si prega di riprovare.
+
+dnd-activated: Non disturbare è ora abilitata. non si receieve chiamate incluse chiamata formwarding mentre non distrub è abilitato.
+dnd-deactivated: Non disturbare è ora disattivato. chiamate receieving compreso chiamata formwarding ha ripreso.
+dnd-not_available: non disturbare, non è supportato da questo telefono. contattare l'amministratore di sistema se beleive questo è in errore.
+
+eavesdrop-no_channels: nessun canale
+
+fault-can_not_be_completed_as_dialed: la chiamata non può essere effettuata come composto. si prega di controllare il numero e comporre di nuovo.
+fault-facility_trouble: a causa di compagnia telefonica impianto problemi la chiamata non può essere completata in questo momento. prova la chiamata più tardi.
+fault-can_not_be_completed_at_this_time: la chiamata non può essere completata in questo momento. per favore riprova più tardi.
+
+hotdesk-abort: scusate riprova più tardi.
+hotdesk-disabled: il tuo profilo HotDesk è disattivato. si prega di contattare l'amministratore di sistema.
+hotdesk-enter_id: inserisci il tuo id HotDesk.
+hotdesk-enter_pin: pease immettere il codice pin HotDesk.
+hotdesk-invalid_entry: che non è una voce valida.
+hotdesk-logged_in: le chiamate ora arrivati a questo dispositivo.
+hotdesk-logged_out: non sarà più ricevere chiamate su questo dispositivo.
+
+intercept-no_channels: nessun canale
+intercept-no_users: Nessun utente trovato
+ivr-group_confirm: questa è una chiamata inoltrata. premere quella chiave per accettare, o hangup ignorare.
+
+menu-no_prompt: non è stato creato la registrazione per questo menu. se si conosce il numero di pin, comporlo ora per registrare il messaggio. altrimenti, prova la chiamata più tardi. grazie.
+menu-transferring_call: trasferire la chiamata.
+menu-exit: Mi dispiace, non siamo stati in grado di riconoscere le voci.
+menu-invalid_entry: voce non valida.
+menu-returning: trasferire la chiamata torna al menu.
+
+park-already_in_use: questo posto auto è già in uso, si prega di scegliere una number.this Posto auto posto diverso è già in uso, si prega di scegliere un numero posto diverso.
+park-no_caller: questa estensione parcheggio è vuoto, il chiamante potrebbe essere stato recuperato da un utente o hungup diverso.
+park-call_placed_in_spot: chiamata effettuata in posto auto
+
+temporal-marked_closed: il vostro ufficio è ora contrassegnato come chiuso. il sistema continuerà chiamate di routing come se l'ufficio è chiuso, fino a quando si riprende manualmente il funzionamento normale.
+temporal-marked_opened: il vostro ufficio è ora contrassegnato come aperta. il sistema continuerà chiamate di routing come se l'ufficio è aperto, fino a quando si riprende manualmente il funzionamento normale.
+temporal-reset_rules: instradamento delle chiamate è tornato al funzionamento normale. chiamate saranno instradate in base alla pianificazione definita quando è stato configurato il vostro sistema.
+temporal-menu: tempo di chiamata basato routing. per contrassegnare l'ufficio come aperta, premere quella chiave. per contrassegnare l'ufficio come chiuso, premere i due chiave. per riprendere il normale funzionamento, premere la chiave di tre.
+
+vm-abort: Mi dispiace, ci sono stati troppi tentativi falliti di log in arrivederci.
+vm-main_menu: per ascoltare nuovi messaggi, premere uno. per ascoltare i messaggi salvati, premere due. per modificare le impostazioni, premere cinque.
+vm-main_menu_not_configurable: per ascoltare nuovi messaggi, premere uno. per ascoltare i messaggi salvati, premere due.
+vm-settings_menu: Per registrare il vostro messaggio di saluto , premere uno . Per registrare il vostro nome , premere due. Per modificare la password , premere tre. Per registrare e utilizzare una risposta temporanea , premere quattro . Per eliminare la risposta temporanea e ripristinare il messaggio di saluto normale , premere cinque . Per tornare al menu principale, premere zero.
+vm-enter_id: inserisci il tuo numero di casella postale, quindi premere cancelletto.
+vm-enter_new_pin_confirm: per confermare, inserite di nuovo la nuova password, quindi premere cancelletto.
+vm-enter_pass: inserisci la tua password, quindi premere cancelletto.
+vm-fail_auth: Login errato.
+vm-pin_invalid: Mi dispiace, le password non corrisponde o non possono essere utilizzati, si prega di riprovare.
+vm-pin_set: Grazie, la tua nuova password è stata salvata.
+vm-no_access: Mi dispiace, la cassetta postale non è configurato per consentire l'accesso da questo telefono.
+vm-record_greeting: il tono per favore dire il messaggio di saluto, quindi premere un tasto qualsiasi o smettere di parlare per terminare la registrazione.
+vm-record_name: il tono per favore dire il proprio nome, quindi premere alcun tasto o smettere di parlare per terminare la registrazione.
+vm-recording_saved: registrazione salvata.
+vm-record_message: registrare il messaggio dopo il segnale acustico, premere un tasto qualsiasi o smettere di parlare per terminare la registrazione.
+vm-review_recording: per salvare questa registrazione, premere uno. per ascoltare, premere due. a ree rekord, premere tre.
+vm-you_have: avete
+vm-new_message: nuovo messaggio
+vm-new_messages: nuovi messaggi
+vm-saved_message: messaggio salvato
+vm-saved_messages: messaggi salvati
+vm-new_and: nuovo e
+vm-received: ricevuto
+vm-message_menu: per salvare, premere uno. di riprodurre, premere due. eliminare, premere sette. per tornare al menu principale, premere zero.
+vm-mailbox_full: la casella vocale è piena, prova la chiamata più tardi.
+vm-not_available_no_voicemail: la persona che si sta tentando di raggiungere non è disponibile, e non ha voicemail. prova la chiamata più tardi.
+vm-person: la persona in estensione
+vm-not_available: non è disponibile.
+vm-no_messages: mailbox è vuoto.
+vm-message_number: messaggio
+vm-recording_to_short: la registrazione era troppo breve per essere salvati.
+vm-thank_you: grazie per aver chiamato. arrivederci.
+agent_logged_already_in: egli dove giá login alla coda.
+agent_logged_in: agente è loggati.
+agent_logged_out: agente dove disconnessione della coda.
+conf-joining_conference: ora si sta unendo la conferenza.
+conf-too_many_attempts: mi dispiace. ci capita di molti tentativi di accesso alla conferenza.
+conf-your_announcement: ora sarete registrare l'annuncio
+dynamic-cid-enter_cid: inserire il proprio callerid seguito da cancelletto
+dynamic-cid-invalid_using_default: voce non valida. questa chiamata ci la CallerID di default.
+ivr-please_enter_pin_followed_by_pound: inserisci il PIN, quindi premere cancelletto.
+menu-return: trasferire la chiamata al menu.
+pickup-no_channels: nessun canale per pickup.
+pickup-no_users: non hanno trovato in gruppo.
+temporal-marked_disabled: il vostro ufficio è ora temporale contrassegnata come chiusa. il sistema continuerà chiamate di routing come se l'ufficio è chiuso, alla prossima riprendere il funzionamento normale.
+temporal-marked_enabled: il vostro ufficio è ora temporale contrassegnata come aperta. il sistema continuerà chiamate di routing come se l'ufficio è aperto, alla prossima riprendere il funzionamento normale.
+temporal-marker_reset: instradamento delle chiamate è tornato al funzionamento normale. chiamate saranno instradate in base alla pianificazione definita quando è stato configurato il vostro sistema.
+vm-deleted: messaggio cancellato
+vm-enter_new_pin: inserisci una nuova password, quindi premere cancelletto
+vm-goodbye: arrivederci
+vm-greeting_intro: l'abbonato che si vuole raggiungere è disponibile.
+vm-new_and-old1: avete in albero nuovo e vecchi messaggi
+vm-new_message: nuovo messaggio
+vm-new: nuovo
+vm-not_available: non è disponibile
+vm-person_not_available: si prega di lasciare un messaggio dopo il ton.
+vm-saved_message: messaggio salvato
+vm-saved: salvato
+vm-setup_complete: congratulazioni! la cassetta postale è ora configurato. se avrebbe cambiato ogni ambiente, si prega di scegliere cinque nel menu principale per questo.
+vm-setup_intro: benvenuto alla vostra casella di posta. gogeather noi di personalizzare le impostazioni. iniziamo impostando la password.
+vm-setup_rec_greeting: ora consente di registrare il messaggio di saluto, che i chiamanti ascolteranno quando raggiungono una cassetta postale.
+vm-you_have-old1: avete un nuovo messaggio.

@@ -1,0 +1,161 @@
+agent-already_logged_in: ești deja conectat în coada de așteptare.
+agent-enter_pin: Vă rugăm introduceți call center numarul tau de agent PIN.
+agent-invalid_choice: în imposibilitatea de a efectua o acțiune.
+agent-logged_in: ești acum conectat la coada.
+agent-logged_out: tu acum deconectat de la coadă.
+agent-not_call_center_agent: tu nu sunt configurate ca un agent call center. vă rugăm să contactați administratorul de sistem pentru asistență.
+agent-pause: pauză de la activitate.
+agent-resume: reluarea activității.
+
+camper-deny: cererea dumneavoastră este refuzată.
+camper-queue: cererea dumneavoastră este acceptată.
+
+cf-now_forwarded_to: apelurile sunt acum transmise
+cf-disabled: redirecționare a apelurilor este acum dezactivat.
+cf-not_available: redirecționare a apelurilor nu sunt disponibile pe această linie.
+cf-enter_number: introduceți numărul de a transmite la, urmat de tasta lire.
+cf-enabled_menu: pentru a dezactiva redirecționarea apelului apăsați 1, pentru a schimba numărul de presa 2.
+cf-disabled_menu: pentru a permite apel de redirecționare apăsați 1, pentru a schimba numărul de presa 2.
+cf-move-too_many_channels: utilizatorul asociat echipamentului este pe mai mult de un apel. această caracteristică nu are suport pentru mai multe apeluri.
+cf-move-no_channel: nu solicită găsite pentru utilizator atribuit acest aparat.
+cf-move-no_owner: apel nu are un proprietar.
+cf-unauthorized_call: nu sunteți autorizat pentru a apela acest tip de număr.
+
+conf-welcome: bun venit la conferință.
+conf-enter_conf_number: vă rugăm să introduceți numărul de conferințe, apoi apăsați lire.
+conf-enter_conf_pin: Introduceți PIN-ul, apoi apăsați pe jumătate de kilogram.
+conf-bad_pin: Numărul de pini invalid.
+conf-bad_conf: Numărul de conferință invalid.
+conf-to_many_attempts: im pare rău că am fost la multe încercări de a accesa conferința..
+conf-alone: Dacă sunteți în prezent singura persoană din această conferință.
+conf-max_participants: numărul maxim de participanți este deja în cadrul conferinței. vă rugăm să încercați din nou mai târziu.
+conf-single: există doar un singur alt participant la această conferință.
+conf-there_are: sunt
+conf-other_participants: alți participanți la această conferință.
+conf-muted: microfon dezactivat, formați stea o să ne-mut.
+conf-unmuted: microfon ne-dezactivat, formați stea o pentru a dezactiva.
+conf-deaf: vorbitor dezactivat, formați stea patru la ne- mut.
+conf-undeaf: difuzor ne-dezactivat, formați stea patru pentru a dezactiva.
+conf-review: apăsați 1 pentru a accepta înregistrarea sau apăsați, orice altă tastă pentru a reînregistra.
+conf-your_announcment: va fi anuntat ca
+conf-announce_your_name: la tonul va rugam sa anuntati numele dvs., apoi apăsați orice tastă sau nu mai vorbim pentru a încheia înregistrarea.
+
+dir-confirm_menu: apăsați 1. pentru a începe peste presa 3.
+dir-enter_person: vă rugăm introduceți primele litere ale persoanelor
+dir-enter_person_firstname: vă rugăm introduceți primele câteva litere ale persoanelor primul nume.
+dir-enter_person_lastname: vă rugăm introduceți primele câteva litere ale persoanelor prenume.
+dir-first_name: prenume
+dir-found: 1 meci a găsit să se conecteze la
+dir-invalid_key: cheie invalid presat
+dir-last_name: nume
+dir-letters_of_person_name: litere ale numelui persoanelor.
+dir-no_more_results: Nu mai multe rezultate.
+dir-no_results_found: NICI UN REZULTAT.
+dir-result_menu: apăsați 1. pentru următoarea rezultat presa 2. pentru a începe peste presa 3.
+dir-result_number: a apela
+dir-specify_minimum: trebuie să specificați un minim de 2 cifre.
+
+disa-enter_pin: vă rugăm să introduceți codul PIN de acces de sistem, apoi apăsați lire.
+disa-invalid_pin: Numărul de pini invalid.
+disa-retries_exceeded: im pare rău că am fost la multe încercări cu ace incorecte, la revedere.
+disa-invalid_extension: imposibilitatea de a găsi extensie, vă rugăm să încercați din nou.
+
+dnd-activated: nu deranjeze acum este activat. nu veți receieve apelurile, inclusiv apel formwarding în timp ce nu distrub este activat.
+dnd-deactivated: Nu deranjați este acum dezactivat. solicită receieving inclusiv formwarding apel a reluat.
+dnd-not_available: Nu deranja nu este suportată de acest telefon. contactați administratorul de sistem dacă beleive acest lucru este în eroare.
+
+eavesdrop-no_channels: nu canale
+
+fault-can_not_be_completed_as_dialed: apelul dumneavoastră nu poate fi finalizat astfel cum apelat. vă rugăm să verificați numărul și formați din nou.
+fault-facility_trouble: datorită companie de telefonie facilitatea de probleme apelul dumneavoastră nu poate fi finalizată în acest moment. vă rugăm să încercați din nou mai târziu apelul.
+fault-can_not_be_completed_at_this_time: apelul dumneavoastră nu poate fi finalizată în acest moment. vă rugăm să încercați din nou mai târziu.
+
+hotdesk-abort: îmi pare rău, vă rugăm să încercați din nou mai târziu.
+hotdesk-disabled: profilul hotdesk este dezactivat. vă rugăm să contactați administratorul de sistem.
+hotdesk-enter_id: vă rugăm să introduceți ID-ul hotdesk.
+hotdesk-enter_pin: Pease introduceți codul PIN hotdesk.
+hotdesk-invalid_entry: că nu este o intrare validă.
+hotdesk-logged_in: apelurile vor veni acum la acest aparat.
+hotdesk-logged_out: nu veți mai primi apeluri de pe acest dispozitiv.
+
+intercept-no_channels: nu canale
+intercept-no_users: nici un utilizator găsit
+ivr-group_confirm: aceasta este o chemare transmis. apăsați 1 pentru a accepta sau inchide pentru a ignora.
+
+menu-no_prompt: înregistrarea de acest meniu nu a fost creat. dacă știți numărul PIN, se apela acum pentru a înregistra prompt. în caz contrar, vă rugăm să încercați din nou mai târziu apelul. multumesc.
+menu-transferring_call: transferul apelului dumneavoastră.
+menu-exit: im pare rau, nu am fost în stare să recunoască intrările.
+menu-invalid_entry: intrare invalid.
+menu-returning: transferul apelul înapoi la meniul.
+
+park-already_in_use: acest loc de parcare este deja în uz, vă rugăm să alegeți un loc de parcare la fața locului number.this diferit este deja în uz, vă rugăm să alegeți un număr diferit loc.
+park-no_caller: aceasta extindere parcare este gol, apelantul poate să fi fost preluat de către un utilizator sau hungup diferit.
+park-call_placed_in_spot: apel plasat în loc de parcare
+
+temporal-marked_closed: biroul dvs. este marcat acum ca închis. sistemul va continua apelurile de rutare ca și cum birou este închis, până când relua manual funcționarea normală.
+temporal-marked_opened: biroul dvs. este acum marcat ca deschis. sistemul va continua apelurile de rutare ca și cum biroul este deschis, până când relua manual funcționarea normală.
+temporal-reset_rules: rutare apel a revenit la funcționarea normală. apelurile vor fi rutate în funcție de programul definit atunci când sistemul a fost configurat.
+temporal-menu: timp rutarea apelurilor pe baza. pentru a marca birou ca deschis, apăsați 1. pentru a marca birou ca închis, apăsați 2. pentru a relua funcționarea normală, apăsați 3.
+
+vm-abort: im pare rau, nu au fost prea multe încercări eșuate de a conecta la revedere.
+vm-main_menu: pentru a asculta mesajele noi, apăsați o. pentru a asculta mesajele salvate, apăsați de două. pentru a schimba setările, apăsați cinci.
+vm-main_menu_not_configurable: pentru a asculta mesajele noi, apăsați o. pentru a asculta mesajele salvate, apăsați de două.
+vm-settings_menu: Pentru a înregistra salut mesageria , apăsați unul . Pentru a înregistra numele dvs. , apăsați doi. Pentru a schimba parola , apăsați trei . Pentru a înregistra și de a folosi un salut temporar , apăsați patru . Pentru a șterge mesajul de întîmpinare temporar și restabili salut normal , apăsați cinci . Pentru a reveni la meniul principal , apăsați zero.
+vm-enter_id: vă rugăm să introduceți numărul căsuței poștale tu, apoi apăsați lire.
+vm-enter_new_pin_confirm: pentru a confirma, vă rugăm să introduceți din nou parola nouă, apoi apăsați pe jumătate de kilogram.
+vm-enter_pass: Vă rugăm introduceți parola, apoi apăsați pe jumătate de kilogram.
+vm-fail_auth: LOGIN incorect.
+vm-pin_invalid: im pare rău, parolele nu se potrivesc sau nu pot fi folosite, vă rugăm să încercați din nou.
+vm-pin_set: vă mulțumesc, noua parolă a fost salvată.
+vm-no_access: im pare rău, căsuța poștală nu este configurat pentru a permite accesul de pe acest telefon.
+vm-record_greeting: la tonul vă rugăm să spun salut dvs., apoi apăsați orice tastă sau nu mai vorbim pentru a încheia înregistrarea.
+vm-record_name: laton, vă rugăm spune numele tău, apoi apăsați orice tastă sau nu mai vorbim pentru a încheia înregistrarea.
+vm-recording_saved: înregistrare salvată.
+vm-record_message: înregistra mesajul la tonul, apăsați orice tastă sau nu mai vorbim pentru a încheia înregistrarea.
+vm-review_recording: pentru a salva această înregistrare, apăsați unul. pentru a asculta, apăsați de două. la ree REKORD, apăsați trei.
+vm-you_have: ai
+vm-new_message: mesaj nou
+vm-new_messages: mesaje noi
+vm-saved_message: mesajul salvat
+vm-saved_messages: mesajele salvate
+vm-new_and: noi și
+vm-received: primit
+vm-message_menu: pentru a salva, apăsați unul. pentru a reda, apăsați de două. pentru a șterge, apăsați șapte. pentru a reveni la meniul principal, apăsați zero.
+vm-mailbox_full: Casuta vocala este plină, vă rugăm să încercați din nou mai târziu apelul.
+vm-not_available_no_voicemail: persoana pe care încearcă să ajungă nu este disponibil, și nu are de mesagerie vocală. vă rugăm să încercați din nou mai târziu apelul.
+vm-person: persoana de la extindere
+vm-not_available: nu este disponibilă.
+vm-no_messages: Căsuța poștală este gol.
+vm-message_number: mesaj
+vm-recording_to_short: înregistrarea a fost prea scurt pentru a fi salvat.
+vm-thank_you: vă mulțumesc pentru telefon. la revedere.
+agent_logged_already_in: el în cazul în care allready conectare la coada.
+agent_logged_in: agent este logat.
+agent_logged_out: agent unde ieșire din coadă.
+conf-joining_conference: vi se alatura acum conferinței.
+conf-too_many_attempts: imi pare rau. acolo se întâmplă la multe încercări de a accesa conferinta.
+conf-your_announcement: acum va fi înregistra anunț ta
+dynamic-cid-enter_cid: introduceți CallerID, urmat de lire
+dynamic-cid-invalid_using_default: intrare invalid. acest apel va ne implicit CallerID.
+ivr-please_enter_pin_followed_by_pound: Introduceți PIN-ul, apoi apăsați pe jumătate de kilogram.
+menu-return: transfera apelul la meniul.
+pickup-no_channels: nu canale de preluare.
+pickup-no_users: nici un utilizator găsit în grup.
+temporal-marked_disabled: biroul dvs. este acum marcat temporal ca închis. sistemul va continua apelurile de rutare ca și cum birou este închis, până data viitoare relua funcționarea normală.
+temporal-marked_enabled: biroul dvs. este acum marcat temporal ca deschis. sistemul va continua apelurile de rutare ca și cum biroul este deschis, până la data viitoare relua funcționarea normală.
+temporal-marker_reset: rutare apel a revenit la funcționarea normală. apelurile vor fi rutate în funcție de programul definit atunci când sistemul a fost configurat.
+vm-deleted: mesajul eliminat
+vm-enter_new_pin: vă rugăm să introduceți o parolă nouă, apoi apăsați lire
+vm-goodbye: la revedere
+vm-greeting_intro: abonatul care vrei să pentru a ajunge la nu este disponibilă.
+vm-new_and-old1: aveți în copac nou și mesajele vechi
+vm-new_message: mesaj nou
+vm-new: nou
+vm-not_available: nu este disponibil
+vm-person_not_available: vă rugăm să lăsați un mesaj după tona.
+vm-saved_message: mesajul salvat
+vm-saved: salvate
+vm-setup_complete: felicitare! căsuța poștală este acum configurat. dacă le-ar fi schimbat nici o setare, vă rugăm să alegeți cinci din meniul principal pentru acest lucru.
+vm-setup_intro: Bine ati venit la căsuța poștală. gogeather vom personaliza setările. execută începe prin setarea parola.
+vm-setup_rec_greeting: acum execută înregistra salutul care suna vor auzi atunci când ajung la o cutie poștală.
+vm-you_have-old1: Aveți un mesaj nou.

@@ -1,0 +1,161 @@
+agent-already_logged_in: bent u al aangemeld bij de wachtrij.
+agent-enter_pin: Voer uw call center agent pincode.
+agent-invalid_choice: niet in staat om actie te voeren.
+agent-logged_in: U bent nu aangemeld voor de wachtrij.
+agent-logged_out: U bent nu afgemeld van de wachtrij.
+agent-not_call_center_agent: u bent niet geconfigureerd als een call center agent. Neem contact op met uw systeembeheerder voor hulp.
+agent-pause: pauzeren van activiteit.
+agent-resume: hervatting van de activiteit.
+
+camper-deny: uw verzoek is geweigerd.
+camper-queue: uw aanvraag wordt geaccepteerd.
+
+cf-now_forwarded_to: gesprekken worden nu doorgestuurd naar
+cf-disabled: doorschakeling is nu uitgeschakeld.
+cf-not_available: doorschakelen van oproepen is niet beschikbaar op deze lijn.
+cf-enter_number: voer het nummer te doen toekomen, gevolgd door een hekje.
+cf-enabled_menu: om het doorschakelen van gesprekken drukt u op 1 uit te schakelen, om het aantal pers 2 veranderen.
+cf-disabled_menu: om het doorschakelen van gesprekken drukt u op 1 staat, om het aantal pers 2 veranderen.
+cf-move-too_many_channels: de gebruiker is toegewezen aan het apparaat is op meer dan één gesprek. deze functie niet ondersteunt meerdere gesprekken.
+cf-move-no_channel: geen oproepen gevonden voor de gebruiker die aan dit apparaat.
+cf-move-no_owner: oproep doet een eigenaar niet hebben.
+cf-unauthorized_call: U bent niet bevoegd om dit soort nummer te bellen.
+
+conf-welcome: welkom op de conferentie.
+conf-enter_conf_number: Voer de conferentie nummer en druk vervolgens op pond.
+conf-enter_conf_pin: Voer uw pincode en druk pond.
+conf-bad_pin: ongeldige pincode.
+conf-bad_conf: ongeldig conferentie nummer.
+conf-to_many_attempts: im droevig er vele pogingen om toegang te krijgen tot de conferentie zijn geweest..
+conf-alone: je bent op dit moment de enige persoon in deze conferentie.
+conf-max_participants: het maximum aantal deelnemers is al in de conferentie. Probeer het later opnieuw.
+conf-single: er slechts één andere deelnemer aan de conferentie.
+conf-there_are: er zijn
+conf-other_participants: andere deelnemers aan deze conferentie.
+conf-muted: microfoon gedempt, dial Star One om de geluidsdemping.
+conf-unmuted: microfoon un-mute, dial ster één te dempen.
+conf-deaf: luidspreker gedempt, dial ster vier tot un-mute.
+conf-undeaf: spreker un-gedempt, dial ster vier tot dempen.
+conf-review: drukt u op 1 om de opname te accepteren of op een willekeurige andere toets om opnieuw op te nemen.
+conf-your_announcment: u zal worden aangekondigd als
+conf-announce_your_name: bij de toon gelieve te kondigen uw naam, druk dan op een willekeurige toets of stoppen met praten om de opname te beëindigen.
+
+dir-confirm_menu: drukt u op 1. om opnieuw te beginnen drukt u op 3.
+dir-enter_person: neem dan de eerste paar letters van de personen in te voeren
+dir-enter_person_firstname: Voer de eerste paar letters van de personen voornaam.
+dir-enter_person_lastname: Voer de eerste paar letters van de personen achternaam.
+dir-first_name: voornaam
+dir-found: 1 match gevonden om verbinding te maken
+dir-invalid_key: ongeldige toets ingedrukt
+dir-last_name: achternaam
+dir-letters_of_person_name: brieven van de personen naam.
+dir-no_more_results: niet meer resultaten.
+dir-no_results_found: geen wedstrijd gevonden.
+dir-result_menu: drukt u op 1. voor het volgende resultaat drukt u op 2. om opnieuw te beginnen drukt u op 3.
+dir-result_number: bellen
+dir-specify_minimum: je nodig hebt om een minimum van 2 cijfers te geven.
+
+disa-enter_pin: Voer uw toegangssysteem pin en druk pond.
+disa-invalid_pin: ongeldige pincode.
+disa-retries_exceeded: im droevig er te veel pogingen zijn geweest met verkeerde pinnen, tot ziens.
+disa-invalid_extension: niet in staat om uitbreiding vinden, probeer het opnieuw.
+
+dnd-activated: niet storen is nu ingeschakeld. je zal niet oproepen met inbegrip van call formwarding terwijl niet distrub is ingeschakeld receieve.
+dnd-deactivated: niet storen is nu uitgeschakeld. receieving gesprekken met inbegrip van call formwarding heeft hervat.
+dnd-not_available: niet storen wordt niet ondersteund door deze telefoon. contact op met uw systeembeheerder als u geloven dit is in de fout.
+
+eavesdrop-no_channels: geen kanalen
+
+fault-can_not_be_completed_as_dialed: uw oproep kan niet worden voltooid als gekozen. kijk dan op het nummer en kies opnieuw.
+fault-facility_trouble: wijten aan telefoonmaatschappij faciliteit problemen uw oproep niet kan worden voltooid op dit moment. gelieve uw oproep later opnieuw te proberen.
+fault-can_not_be_completed_at_this_time: uw oproep kan niet worden voltooid op dit moment. Probeer het later opnieuw.
+
+hotdesk-abort: Het spijt Probeer het later opnieuw.
+hotdesk-disabled: je hotdesk profiel is uitgeschakeld. neem dan contact op met de systeembeheerder.
+hotdesk-enter_id: Voer uw hotdesk id.
+hotdesk-enter_pin: pease Voer uw hotdesk pincode.
+hotdesk-invalid_entry: dat is geen geldige invoer.
+hotdesk-logged_in: uw gesprekken komt nu naar dit apparaat.
+hotdesk-logged_out: zal u niet langer gesprekken op dit apparaat te ontvangen.
+
+intercept-no_channels: geen kanalen
+intercept-no_users: geen gebruikers gevonden
+ivr-group_confirm: Dit is een doorgeschakeld gesprek. drukt u op 1 om te accepteren, of ophangen om te negeren.
+
+menu-no_prompt: de opname voor dit menu is nog niet gemaakt. als je weet dat de pincode, vorm dat nu aan de prompt op te nemen. anders, dan kunt u uw oproep later opnieuw te proberen. dank je.
+menu-transferring_call: de overdracht van uw oproep.
+menu-exit: im sorry, we zijn niet in staat om uw gegevens te herkennen geweest.
+menu-invalid_entry: ongeldige invoer.
+menu-returning: overbrengen van uw oproep terug naar het menu.
+
+park-already_in_use: Deze parkeerplaats is al in gebruik, kies een andere plek number.this parkeerplaats is al in gebruik, kies een andere plek nummer.
+park-no_caller: deze parkeerplaats extensie is leeg, de beller kan zijn opgehaald door een andere gebruiker of hungup.
+park-call_placed_in_spot: oproep geplaatst in parkeerplek
+
+temporal-marked_closed: uw kantoor is nu gemarkeerd als gesloten. het systeem zal routering gesprekken voortzetten alsof het kantoor gesloten is, totdat u handmatig de normale werking te hervatten.
+temporal-marked_opened: uw kantoor is nu gemarkeerd als geopend. het systeem zal routering gesprekken voortzetten alsof het kantoor is geopend, totdat u handmatig de normale werking te hervatten.
+temporal-reset_rules: call routing terug naar de normale werking. gesprekken worden gerouteerd op basis van het schema gedefinieerd wanneer uw systeem is geconfigureerd.
+temporal-menu: tijd gebaseerde call routing. naar het kantoor zo open te markeren, drukt u op 1. naar het kantoor markeren als gesloten, drukt u op 2. om de normale werking te hervatten, drukt u op 3.
+
+vm-abort: im sorry, er zijn te veel mislukte pogingen om in te loggen afscheid.
+vm-main_menu: om nieuwe berichten, drukt u op een horen. om uw opgeslagen berichten te horen, drukt u twee. om uw instellingen te wijzigen, drukt u op de vijf.
+vm-main_menu_not_configurable: om nieuwe berichten, drukt u op een horen. om uw opgeslagen berichten te horen, drukt u twee.
+vm-settings_menu: Om uw mailbox begroeting op te nemen , druk op één . Om uw naam op te nemen , drukt u twee . Om uw wachtwoord te wijzigen , drukt u op drie . Om op te nemen en gebruik maken van een tijdelijke begroeting , op vier . Om uw tijdelijke begroeting te verwijderen en herstellen van uw normale groet, druk vijf . Om terug te keren naar het hoofdmenu , druk op nul.
+vm-enter_id: Vul hieronder je mailbox in en druk op pond.
+vm-enter_new_pin_confirm: om te bevestigen, dan kunt u opnieuw uw nieuwe wachtwoord in en druk pond.
+vm-enter_pass: Voer uw wachtwoord in en druk pond.
+vm-fail_auth: aanmelden onjuist.
+vm-pin_invalid: im sorry, de wachtwoorden komen niet overeen of niet kunnen worden gebruikt, probeer het opnieuw.
+vm-pin_set: dank u, is uw nieuwe wachtwoord is opgeslagen.
+vm-no_access: im sorry, is uw mailbox niet geconfigureerd om de toegang van deze telefoon mogelijk te maken.
+vm-record_greeting: bij de toon kunt u zeggen dat je groet, druk dan op een willekeurige toets of stoppen met praten om de opname te beëindigen.
+vm-record_name: bij de toon kunt u zeggen: uw naam, druk dan op een willekeurige toets of stoppen met praten om de opname te beëindigen.
+vm-recording_saved: opname opgeslagen.
+vm-record_message: neem uw bericht op de toon, druk op een toets of stoppen met praten om de opname te beëindigen.
+vm-review_recording: om deze opname op te slaan, drukt u op een. te luisteren, druk twee. naar ree rekord, druk drie.
+vm-you_have: je hebt
+vm-new_message: nieuw bericht
+vm-new_messages: nieuwe berichten
+vm-saved_message: opgeslagen bericht
+vm-saved_messages: opgeslagen berichten
+vm-new_and: nieuw
+vm-received: hebben ontvangen
+vm-message_menu: om op te slaan, drukt u op één. over te spelen, drukt u twee. te verwijderen, drukt u zeven. om terug te keren naar het hoofdmenu, druk op nul.
+vm-mailbox_full: de voicemail-box vol is, kunt u uw oproep later opnieuw te proberen.
+vm-not_available_no_voicemail: de persoon die u probeert te bereiken is niet beschikbaar, en hoeft voicemail niet. gelieve uw oproep later opnieuw te proberen.
+vm-person: de persoon bij uitbreiding
+vm-not_available: is niet beschikbaar.
+vm-no_messages: mailbox is leeg.
+vm-message_number: bericht
+vm-recording_to_short: de opname was te kort om gered te worden.
+vm-thank_you: bedankt om te bellen. tot wederziens.
+agent_logged_already_in: hij waar allready login aan de wachtrij.
+agent_logged_in: agent ingelogde.
+agent_logged_out: middel waar logout van de wachtrij.
+conf-joining_conference: u bent nu toetreden tot de conferentie.
+conf-too_many_attempts: het spijt me. er gebeuren met vele pogingen om toegang te krijgen tot de conferentie.
+conf-your_announcement: Nu zult u opnemen uw aankondiging
+dynamic-cid-enter_cid: Vul uw CallerID gevolgd door pond
+dynamic-cid-invalid_using_default: ongeldige invoer. deze oproep zal ons de standaard CallerID.
+ivr-please_enter_pin_followed_by_pound: Voer uw pincode en druk pond.
+menu-return: uw gesprek naar het menu.
+pickup-no_channels: geen kanalen om pick-up.
+pickup-no_users: geen gebruikers gevonden in de groep.
+temporal-marked_disabled: uw kantoor is nu tijdelijk gemarkeerd als gesloten. het systeem zal routering gesprekken voortzetten alsof het kantoor gesloten is, tot de volgende keer cv naar de normale werking.
+temporal-marked_enabled: uw kantoor is nu tijdelijk gemarkeerd als geopend. het systeem zal routering gesprekken voortzetten alsof het kantoor is geopend, tot de volgende keer cv naar de normale werking.
+temporal-marker_reset: call routing terug naar de normale werking. gesprekken worden gerouteerd op basis van het schema gedefinieerd wanneer uw systeem is geconfigureerd.
+vm-deleted: bericht verwijderd
+vm-enter_new_pin: Voer een nieuw wachtwoord in en druk pond
+vm-goodbye: tot wederziens
+vm-greeting_intro: de abonnee die u wilt bereiken is niet beschikbaar.
+vm-new_and-old1: heb je in de boom nieuwe en oude berichten
+vm-new_message: nieuw bericht
+vm-new: nieuw
+vm-not_available: niet beschikbaar
+vm-person_not_available: laat dan een bericht achter na de ton.
+vm-saved_message: opgeslagen bericht
+vm-saved: gered
+vm-setup_complete: felicitatie! uw mailbox is nu geconfigureerd. Als u een instelling zou zijn veranderd, kies dan vijf in het hoofdmenu voor dit.
+vm-setup_intro: van harte welkom om uw mailbox. gogeather zullen we de instellingen personaliseren. laten we beginnen met het instellen van uw wachtwoord.
+vm-setup_rec_greeting: laat nu registreren de begroeting die bellers horen wanneer ze een postbus te bereiken.
+vm-you_have-old1: je hebt een nieuw bericht.

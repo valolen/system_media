@@ -1,0 +1,164 @@
+agent-logged_out: Sie sind nun aus der Warteschlange, abgemeldet.
+agent-enter_pin: geben Sie bitte Ihre Agenten Pin-Nummer ein.
+agent-invalid_choice: Ihre Auswahl konnte nicht verarbeitet werden.
+agent-logged_in: Sie sind jetzt in der Warteschlange angemeldet.
+agent-logged_out: Sie werden nun aus der Warteschlange abgemeldet.
+agent-not_call_center_agent: Sie wurden nicht als Agent konfiguriert. kontaktieren Sie bitte Ihren Systemadministrator.
+agent-pause: sie sind pausiert.
+agent-resume: die Pausierung ist beendet.
+agent_logged_already_in: Sie sind bereits als agent angemeldet.
+agent_logged_in: Sie sind nun als agent angemeldet.
+agent_logged_out: agent wurde aus der warteschlange abgemeldet.
+
+camper-deny: Ihre Anfrage wurde verweigert.
+camper-queue: Ihre Anfrage ist akzeptiert.
+
+cf-now_forwarded_to: Rufe werden weitergeleitet
+cf-disabled: Rufumleitung ist nun deaktiviert.
+cf-not_available: Die Anrufumleitung steht auf diesem Anschluss nicht zur Verfügung.
+cf-enter_number: geben Sie ein Umleitungsziel ein, gefolgt von der Rautetaste.
+cf-enabled_menu: für die deaktivierung der Umleitung drücken Sie die Eins, um die Nummer zu ändern drücken Sie die zwei.
+cf-disabled_menu: für die aktivierung der Umleitung drücken Sie die eins, um die Nummer zu ändern, drücken Sie die zwei.
+cf-move-no_channel: Anrufe zu diesem Gerät sind nicht möglich.
+cf-move-too_many_channels: die maximalen kanäle sind voll ausgelastet, Diese Funktion unterstützt nicht mehrere Anrufe.
+cf-move-no_owner: Dieses Gerät verfügt nicht über einen Besitzer.
+cf-unauthorized_call: Sie sind nicht berechtigt, diese Nummer anzurufen.
+
+conf-welcome: herzlich willkommen in der Konferenz.
+conf-enter_conf_pin: geben Sie bitte Ihre PIN ein und drücken Sie die raute taste.
+conf-bad_pin: ungültige PIN-Nummer.
+conf-bad_conf: ungültige Konferenznummer.
+conf-to_many_attempts: entschuldigung, für den zugriff auf die konferenz, wurden zuviele Fehler registriert.
+conf-alone: Sie sind derzeit der einzige Teilnehmer in dieser Konferenz.
+conf-max_participants: die maximale Anzahl von Teilnehmer ist bereits in der Konferenz. versuchen Sie es später erneut.
+conf-there_are: Es sind,
+conf-single: es gibt nur einen anderen Teilnehmer in dieser Konferenz.
+conf-enter_conf_number: Bitte geben Sie die Konferenznummer ein, und drücken Sie raute taste.
+conf-your_announcment: Sie können nun ihre Ansage aufnehmen.
+conf-announce_your_name: Sprechen sie Ihren Namen und drücken Sie anschliessend eine beliebige Taste, um die Aufnahme zu beenden.
+conf-other_participants: andere Teilnehmer in dieser Konferenz.
+conf-muted: Mikrofon stummgeschaltet, drücken Sie Stern Eins, um die Stummschaltung aufzuheben.
+conf-unmuted: Mikrofon Stummschaltung deaktiviert, drücken Sie Stern Eins, um stumm zu schalten.
+conf-deaf: Lautsprecher abgeschaltet, drücken sie Stern Vier, um die abschaltung aufzuheben.
+conf-undeaf: Lautsprecher wieder eingeschaltet, drücken sie Stern Vier, um den Lautsprecher auszuschalten.
+conf-review: drücken Sie die Eins um die Aufnahme zu akzeptiern, oder drücken Sie eine beliebige andere Taste, um erneut aufzunehmen.
+conf-joining_conference: Sie sind nun in der konferenz.
+conf-too_many_attempts: entschuldigung, für den zugriff auf die konferenz, wurden zuviele Fehler registriert.
+conf-your_announcement: Sie können nun Ihre ansage aufnehmen.
+
+dir-confirm_menu: willkommen im verzeichnis. drücken Sie auf die buchstaben im zahlenfeld.
+dir-enter_person: Bitte geben Sie die ersten Buchstaben der gesuchten Person ein.
+dir-enter_person_firstname: Bitte geben Sie die ersten Buchstaben des gesuchten Vornamens ein.
+dir-enter_person_lastname: Bitte geben Sie die ersten Buchstaben des gesuchten Nachnamens ein .
+dir-first_name: vorname
+dir-found: Eintrag wurde gefunden.
+dir-invalid_key: ungültige eingabe
+dir-last_name: nachname
+dir-no_more_results: Keine weiteren Ergebnisse.
+dir-no_results_found: keine Übereinstimmung gefunden.
+dir-result_number: anrufen
+dir-specify_minimum: Sie müssen mindestens 2 Ziffern eingeben.
+dir-letters_of_person_name: Buchstaben der Person.
+dir-result_menu: drücken Sie  die Eins für die nächste Folge drücken Sie die zwei um zu verbinden.
+
+disa-enter_pin: geben Sie bitte Ihre Systemzugriff-PIN ein und drücken Sie raute taste.
+disa-invalid_pin: ungültige PIN-Nummer.
+disa-retries_exceeded: Entschuldigung, es gab zu viele Fehlversuche. auf Wiedersehen.
+disa-invalid_extension: konnte keine Nebenstelle finden, versuchen Sie es erneut.
+
+dnd-activated: Bitte nicht stören ist nun aktiviert. Sie erhalten keine Anrufe mehr, einschließlich Umgeleitete Anruf.
+dnd-deactivated: Bitte nicht stören ist jetzt deaktiviert. alle anrufe werden wieder durchgestellt.
+dnd-not_available: Bitte nicht stören wird von diesem Telefon nicht unterstützt. oder kontaktieren Sie Ihren Systemadministrator.
+
+eavesdrop-no_channels: keine freien Kanäle
+
+fault-can_not_be_completed_as_dialed: Ihr Anruf konnte nicht durchgestellt werden. Bitte überprüfen Sie die Nummer und wählen Sie nochmal.
+fault-facility_trouble: aufgrund von Problemen auf der Anlage, konnte Ihr Anruf nicht durchgeführt werden. Bitte versuchen Sie es später noch einmal.
+fault-can_not_be_completed_at_this_time: Ihr Anruf kann zu diesem Zeitpunkt nicht durchgestellt werden. versuchen Sie es später nochmal.
+
+hotdesk-abort: Versuchen Sie es später nochmal.
+hotdesk-disabled: Ihr Hotdesk Profil ist deaktiviert. wenden Sie sich bitte an den Systemadministrator.
+hotdesk-enter_id: geben Sie bitte Ihre Hotdesk-ID ein.
+hotdesk-enter_pin: geben Sie Ihren PIN-Code für Hotdesk ein.
+hotdesk-invalid_entry: das ist keine gültige Hotdesk anmeldung.
+hotdesk-logged_in: Ihre Anrufe werden nun zu diesem Gerät geleitet.
+hotdesk-logged_out: Sie werden nicht mehr Anrufe auf diesem Gerät empfangen.
+
+intercept-no_channels: keine Kanäle
+intercept-no_users: es wurden keine Benutzer gefunden
+
+ivr-group_confirm: dies ist ein weitergeleiteter Anruf.  drücken sie eins, um zu akzeptieren, oder legen sie auf.
+ivr-group_confirm: dies ist ein weitergeleiteter Anruf. drücken sie eins, um durchzustellen, oder legen sie auf.
+ivr-please_enter_pin_followed_by_pound: Geben Sie ihren PIN ein, und drücken Sie die raute taste.
+
+pickup-no_channels: keine Leitungen für ein pickup vorhanden.
+pickup-no_users: keine benutzer in der gruppe gefunden.
+
+menu-no_prompt: die Aufnahme für dieses Menü wurde noch nicht erstellt. Wenn Sie die PIN-Nummer kennen, wählen Sie nun, um die Abfrage zu erfassen. Ansonsten versuchen Sie bitte Ihren Anruf später erneut. danke für ihre geduld.
+menu-transferring_call: Das Gespräch wird verbunden.
+menu-exit: Entschuldigung das system konnte Ihre Eingabe nicht verstehen.
+menu-invalid_entry: ungültige Eingabe.
+menu-returning: Das Gespräch wird urück zum Menü verbunden.
+menu-return: das gespräch wird zum Menü verbunden.
+
+park-already_in_use: dieser Parkplatz ist bereits besetzt, wählen Sie bitte eine anderen.
+park-no_caller: Diese Parkplatz ist ist leer. der Anrufer wurde von einem anderen Benutzer übenommen oder hat aufgelegt.
+park-call_placed_in_spot: Gespräch wurde auf den Parkplatz verschoben.
+
+temporal-marked_closed: Das Büro ist nun geschlossen. Alle Anrufe werden als geschlossen behandelt, bis Sie manuell diesen wieder diesen aufheben.
+temporal-marked_opened: Ihr Büro ist nun offen. Alle Anrufe werden als offen behandelt, bis Sie manuell diesen wieder diesen aufheben.
+temporal-reset_rules: Die Anrufweiterleitung wurde wieder in den Normalbetrieb zurückgesetz.
+temporal-menu: drücken Sie  die Eins , um das Büro manuell zu schliessen, drücken Sie die zwei um das büro manuell offen zu halten, oder drücken Sie die drei um die zeitbasierte Anrufweiterleitung zu aktiviieren.
+dynamic-cid-enter_cid:  geben sie Ihre Nummer ein, gefolgt von der raute taste.
+dynamic-cid-invalid_using_default: eingabe ungültig. dieser anruf wird die system Anruf-ID verwenden.
+temporal-marked_disabled: Das Büro ist nun temporär geschlossen. Alle Anrufe werden als geschlossen behandelt, bis Sie das zeitbasierende system diesen wieder aufhebt.
+temporal-marked_enabled: Das Büro ist nun temporär geöffnet. Alle Anrufe werden als offen behandelt, bis Sie das zeitbasierende system diesen wieder aufhebt.
+temporal-marker_reset: Die Anrufweiterleitung wurde wieder in den Normalbetrieb zurück gesetzt.
+
+vm-abort: Entschuldigung, es gab zu viele Fehlversuche beim anmelden.
+vm-main_menu: für neue Nachrichten, drücken Sie die eins, um gespeicherte Nachrichten abzuhören, drücken Sie die zwei. um die Einstellungen zu ändern, drücken Sie die fünf.
+vm-main_menu_not_configurable: für neue Nachrichten, drücken Sie die eins, um gespeicherte Nachrichten abzuhören, drücken Sie die zwei.
+vm-settings_menu: Um Ihre Mailbox-Begrüßung aufzunehmen, drücken Sie die Eins. um Ihren Namen aufzunehmen, drücken Sie die Zwei. um Ihr Passwort zu ändern, drücken Sie die drei. Um die Temporäre Ansage aufzunehmen drücken Sie die Vier, um die Temporäre zu löschen, und wieder die Normale Ansage zu benutzen, drücken Sie die Fünf. Um in das Hauptmenü zurückzukehren, drücken Sie die Null.
+vm-enter_id: Bitte geben Sie die Beantworter-ID ein, und drücken Sie die raute taste.
+vm-enter_new_pin_confirm: um zu bestätigen, geben Sie bitte Ihr neues Passwort noch einmal ein, und drücken Sie die raute taste.
+vm-enter_pass: Bitte geben Sie Ihr Passwort ein, und drücken Sie die raute taste.
+vm-fail_auth: anmeldung fehlgeschlagen
+vm-pin_invalid: Entschuldigung, die Passwörter stimmen nicht überein oder sie können nicht verwendet werden, versuchen Sie es noch einmal.
+vm-pin_set: Vielen Dank, Ihr neues Passwort wurde gespeichert.
+vm-no_access: Entschuldigung, der Beantworter ist nicht konfiguriert, um den Zugang von diesem Telefon zu ermöglichen, müssen sie diesen zuerst einrichten.
+vm-record_greeting: nach dem Signalton nehmen sie Ihre Begrüßung auf, und drücken Sie eine beliebige Taste, um zu beenden.
+vm-record_name: nach dem Signalton nehmen Sie Ihren Namen auf und drücken Sie eine beliebige Taste,  um zu beenden.
+vm-recording_saved: die Aufnahme wurde gespeichert.
+vm-record_message: Nehmen Sie Ihre Ansage nach dem Signalton auf, und drücken sie eine beliebige Taste, um zu beenden.
+vm-review_recording: , um die Nachricht zu speichern, drücken Sie die Eins. um die Nachricht noch einmal zu hören, drücken Sie die zwei. um die Nachricht noch einmal aufzunehmen, drücken Sie die drei.
+vm-you_have: sie haben
+vm-new_message: neue Nachricht
+vm-new_messages: neue Nachrichten
+vm-saved_message: gespeicherte Nachricht
+vm-saved_messages: gespeicherte Nachrichten
+vm-new_and: neue und
+vm-received: erhalten am
+vm-message_menu: um diese zu speichern, drücken Sie die eins. um zu wiederholen, drücken Sie die zwei. um zu löschen, drücken Sie die sieben. um in das Hauptmenü zurückzukehren, drücken Sie die Null.
+vm-mailbox_full: der Beantworter ist voll, versuchen Sie es später noch einmal.
+vm-not_available_no_voicemail: die Person, die Sie anrufen, ist nicht verfügbar, und hat keinen Anrufbeantworter. Bitte versuchen Sie es später noch einmal. danke für ihre geduld.
+vm-not_available: ist nicht verfügbar.
+vm-no_messages: Beantworter ist leer.
+vm-message_number: Nachricht
+vm-recording_to_short: die Nachricht war zu kurz, um gespeichert zu werden.
+vm-thank_you: vielen dank für den anruf. auf widersehen.
+vm-deleted: nachricht gelöscht
+vm-enter_new_pin: geben sie ihr passwort ein gefolgt von der raute taste
+vm-goodbye: auf wiedersehen
+vm-greeting_intro: der angerufene teilnehmer ist nicht erreichbar.
+vm-new_and-old1: sie haben neue und alte nachrichten.
+vm-new_message:  neue nachricht
+vm-new: neue
+vm-not_available: ist nicht erreichbar
+vm-person_not_available: sprechen sie Ihre nachricht nach dem ton.
+vm-saved_message: nachricht gespeichert
+vm-saved: gespeichert
+vm-setup_complete: Gratulation! Ihr Beantworter ist freigeschaltet. wenn sie änderungen vornehmen möchten, drücken sie im beantworter menü die taste fünf.
+vm-setup_intro: willkommen zu Ihrem Beantworter. zusammen werden wir nun einige einstellungen vornehmen um diese freizuschalten. doch zuerst starten wir mit dem passwort.
+vm-setup_rec_greeting: nun nehmen wir die meldung auf, die anrufer hören wenn der beantworter abnimmt.
+vm-you_have-old1: sie haben eine neue nachricht.
+vm-person: die Person, an der Nebenstelle
